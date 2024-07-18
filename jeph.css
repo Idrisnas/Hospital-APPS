@@ -110,14 +110,12 @@ body{background-color: rgb(90, 88, 88);}
     width: 20px;
 
 }
-
-.footer-legal {
+.footer-legal{
     text-align: center;
-    border-top: 1px solid #white;
+    border-top: 1px;
     padding-top: 20px;
     margin-top: 20px;
 }
-
 .footer-legal a {
     text-decoration: none;
     color: black;
