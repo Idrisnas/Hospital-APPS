@@ -1,0 +1,120 @@
+.photo{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+.navigation{
+    display: flex;
+    gap: 15px;
+    padding-right: 70px;
+    padding-top: 40px;
+}
+.pedi{
+    background-color: whitesmoke;
+    height: 40px;
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 70px;
+    color: gray;
+}
+.nav_3{
+    background-color: rgb(70, 154, 103);
+    height: 150px;
+    width: 100%;
+    padding-top: 40px;
+    padding-left: 50px;
+    color: white;
+}
+.text{
+    font-size: 30px;
+}
+.note{
+    font-size: 12px;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.span{
+    font-weight: bold;
+}
+.choose{
+    padding-top: 30px;
+    padding-left: 20px;
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+.all{
+    padding-left: 20px;
+    padding-top: 20px;
+    color: grey;
+    background-color: white;
+    width: 100%;
+    height: 700px;
+}
+.baba{
+    background-color: whitesmoke;
+    width: 60%;
+    height:700px;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: flex;
+    gap: 50px;
+}
+.horse{
+    color: black;
+    padding-left: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.area{
+    font-size: 12px;
+    color: grey;
+    padding-top: 40px;
+}
+.exper{
+    padding-top: 30px;
+    color: black;
+    font-weight: bold;
+}
+.high{
+    padding-top: 20px;
+}
+.para{
+    padding-top: 20px;
+    padding-left: 15px;
+    font-size: 15px;
+    color: grey;
+}
+.pics{
+    padding-top: 30px;
+    padding-left: 20px;
+    background-color: blue;
+    width: 100%;
+    height: 550px;
+    margin-left: 30px;
+    
+
+}
+.team{
+    font-size: 25px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    padding-left: 150px;
+}
+.inter{
+    margin-top: 65px;
+    background-color: blue;
+    color: grey;
+    width: 30%;
+    height: 90px;
+    border-radius: 5px;
+    padding-left: 40px;
+    padding-top: 20px;
+    font-size: 10px;
+}
+.ever{
+    display: flex;
+    gap: 40px;
+}
